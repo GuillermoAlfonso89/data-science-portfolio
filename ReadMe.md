@@ -1,4 +1,4 @@
-# Data Science Portfolio -  Guillermo Afonos conflict example
+# Data Science Portfolio -  Guillermo Alfonso M.
 
 Proyecto de práctica para transición de Actuaría hacia Data Science.
 
