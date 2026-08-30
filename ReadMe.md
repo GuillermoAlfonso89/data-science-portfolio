@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Portfolio - Rama B conflict
 
 Proyecto de práctica para transición de Actuaría hacia Data Science.
 
